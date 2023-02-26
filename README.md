@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Flow-App
+A Flow Blockchain DApp with Smart Contract built with Cardence.
+
+Deployed on testnet : https://testnet.flowscan.org/contract/A.ba1132bc08f82fe2.Profile
 
 ## Getting Started
 
